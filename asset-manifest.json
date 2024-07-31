@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tasker-App/static/css/main.530f5e09.css",
+    "main.js": "/Tasker-App/static/js/main.e5266d9c.js",
+    "static/js/453.2e840a78.chunk.js": "/Tasker-App/static/js/453.2e840a78.chunk.js",
+    "index.html": "/Tasker-App/index.html",
+    "main.530f5e09.css.map": "/Tasker-App/static/css/main.530f5e09.css.map",
+    "main.e5266d9c.js.map": "/Tasker-App/static/js/main.e5266d9c.js.map",
+    "453.2e840a78.chunk.js.map": "/Tasker-App/static/js/453.2e840a78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.530f5e09.css",
+    "static/js/main.e5266d9c.js"
+  ]
+}
